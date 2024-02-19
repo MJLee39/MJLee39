@@ -43,4 +43,4 @@
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlsdjdmlqlc3)](https://solved.ac/profile/dlsdjdmlqlc3)
 
 ## 💻 DEV's log 💻
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api/badge?name=developbymay&postId=default&theme=develop)](https://github.com/MJLee39/github-readme-tistory-card)
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api/badge?name=developbymay&postId=default&theme=develop)](https://github.com/loosie/github-readme-tistory-card)
