@@ -34,6 +34,8 @@
 ![pycharm](https://img.shields.io/badge/pycharm-000000.svg?&style=for-the-badge&logo=pycharm&logoColor=white)
 ![slack](https://img.shields.io/badge/slack-4A154B.svg?&style=for-the-badge&logo=slack&logoColor=white)
 ![notion](https://img.shields.io/badge/notion-000000.svg?&style=for-the-badge&logo=notion&logoColor=white)
+[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name={insert_name})](https://github.com/loosie/github-readme-tistory-card)
+
 
 ### 🚌 Top Langs & Algorithm
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MJLee39&layout=compact)
@@ -41,14 +43,4 @@
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlsdjdmlqlc3)](https://solved.ac/profile/dlsdjdmlqlc3)
 
 ## 💻 DEV's log 💻
-<div style="display:flex; flex-direction:row;">
-    <a href="https://developbymay.tistory.com">
-        <img src="https://img.shields.io/badge/
-        Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
-    </a>
-  
- [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/
- api?name=bi-sz)](https://github.com/bi-sz/velog-readme-stats)
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/
-api?name=li-yo&theme=default)](https://li-yo.tistory.com/)
-</div><br>
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=developbymay&postId=default)](https://github.com/loosie/github-readme-tistory-card)
