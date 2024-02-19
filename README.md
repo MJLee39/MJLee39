@@ -34,7 +34,7 @@
 ![pycharm](https://img.shields.io/badge/pycharm-000000.svg?&style=for-the-badge&logo=pycharm&logoColor=white)
 ![slack](https://img.shields.io/badge/slack-4A154B.svg?&style=for-the-badge&logo=slack&logoColor=white)
 ![notion](https://img.shields.io/badge/notion-000000.svg?&style=for-the-badge&logo=notion&logoColor=white)
-[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name={insert_name})](https://github.com/loosie/github-readme-tistory-card)
+[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=developbymay)](https://github.com/loosie/github-readme-tistory-card)
 
 
 ### 🚌 Top Langs & Algorithm
