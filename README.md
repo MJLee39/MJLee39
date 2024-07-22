@@ -41,5 +41,10 @@
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlsdjdmlqlc3)](https://solved.ac/profile/dlsdjdmlqlc3)
 
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/MJLee39?pet-id=1" width="1000" height="120"/>
+  <img
+    src="https://render.gitanimals.org/lines/MJLee39?pet-id=603224776542478186"
+    width="600"
+    height="120"
+  />
 </a>
+  
